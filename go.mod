@@ -1,5 +1,7 @@
 module github.com/nattawitc/ssh-line-bot
 
+go 1.14
+
 require (
 	github.com/line/line-bot-sdk-go v4.2.0+incompatible
 	github.com/spf13/viper v1.3.1

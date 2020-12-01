@@ -1,0 +1,15 @@
+{
+    "ProjectName": "Line-Chat-Bot",
+    "ProjectDescription": "webhook for Line-Chat-Bot",
+    "Version": "0.1.0",
+    "ENV": "dev",
+    "TimeZone": "Asia/Bangkok",
+    "Listening": {
+        "IP": "localhost",
+        "Port": "6500"
+    },
+    "Line": {
+        "Secret": "8f2905e0d764a05d090e6611e9c62179",
+        "Token": "u1bbarCIdvlN/QRq6Zt+vjPkcm9COq9rwF6YOrA3elRde85TaOBiBI+0n2669Vbv1j8OSU+q33hn9sTe5MhSwg9FA8TUJSVZCtO8EvSMMwqIlfdy6VElK8PN/fHIlR2VhT6r4y3+3lQq1OfkfvzvEgdB04t89/1O/w1cDnyilFU="
+    }
+}
